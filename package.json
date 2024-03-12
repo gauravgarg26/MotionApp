@@ -1,0 +1,17 @@
+{
+  "name": "motionapp",
+  "version": "1.0.0",
+  "description": "Node.js app to integrate with Meta’s API to get basic user details",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "lodash": "^4.17.21"
+  }
+}
